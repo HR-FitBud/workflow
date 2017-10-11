@@ -18,13 +18,10 @@ function Romy() {
 }
 
 function Liz() {
-<<<<<<< Updated upstream
 	console.log('changes on yu\'s request')
 	
     return false;
-=======
     return true;
->>>>>>> Stashed changes
 }
 
 function Tirumari() {
@@ -46,4 +43,9 @@ function Yu() {
 	
     console.log('hi');
     console.log('What do you mean \"hi\"? Please stop calling me.');
+}
+
+function dbhelper() {
+	console.log('lets do it')
+	cnsole.log('lets try this again');
 }
