@@ -19,6 +19,7 @@ function Liz() {
 }
 
 function Tirumari() {
+	console.log('hi from romy')
     
 }
 
