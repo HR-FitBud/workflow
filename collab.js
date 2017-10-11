@@ -1,4 +1,5 @@
 function Romy() {
+	console.log('changes on yu\'s request')
 	console.log('hi guys it\'s me, Romy!');
 	console.log('final changes')
 	console.log('hi guys how are you doing');
@@ -17,10 +18,14 @@ function Romy() {
 }
 
 function Liz() {
+	console.log('changes on yu\'s request')
+	
     return false;
 }
 
 function Tirumari() {
+	console.log('changes on yu\'s request')
+	
 	console.log('hi from romy')
     
   var setup = 'Why did the chicken cross the road?';
@@ -31,6 +36,10 @@ function Tirumari() {
 }
 
 function Yu() {
+	console.log('changes on yu\'s request')
+
+	
+	
     console.log('hi');
     console.log('What do you mean \"hi\"? Please stop calling me.');
 }
