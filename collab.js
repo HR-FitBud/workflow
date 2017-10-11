@@ -1,5 +1,7 @@
 function Romy() {
 	console.log('hi guys it\'s me, Romy!');
+	console.log('final changes')
+	console.log('hi guys how are you doing');
 
 
 	console.log('new stash changes');
