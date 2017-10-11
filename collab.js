@@ -1,4 +1,16 @@
 function Romy() {
+	console.log('hi guys how are you doing');
+
+
+
+
+
+
+
+
+
+
+
 
 }
 
@@ -11,5 +23,5 @@ function Tirumari() {
 }
 
 function Yu() {
-    
+    console.log('hi');
 }
