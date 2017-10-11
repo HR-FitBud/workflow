@@ -1,5 +1,5 @@
 function Romy() {
-	console.log('hi guys how are you doing');
+	console.log('hi guys it\'s me, Romy!');
 
 
 	console.log('new stash changes');
@@ -11,11 +11,11 @@ function Romy() {
 
 
 
-  console.log('I\'m doing well, thanks :)')
+  console.log('Me too, thanks')
 }
 
 function Liz() {
-    return true;
+    return false;
 }
 
 function Tirumari() {
@@ -30,5 +30,5 @@ function Tirumari() {
 
 function Yu() {
     console.log('hi');
-    console.log('What do you mean \"hi\"? Please stop calling me.')
+    console.log('What do you mean \"hi\"? Please stop calling me.');
 }
