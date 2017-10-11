@@ -8,7 +8,7 @@ function Romy() {
 	console.log('new stash changes');
 
 
-
+  console.log('this is not a joke');
 
 
 
@@ -18,9 +18,13 @@ function Romy() {
 }
 
 function Liz() {
+<<<<<<< Updated upstream
 	console.log('changes on yu\'s request')
 	
     return false;
+=======
+    return true;
+>>>>>>> Stashed changes
 }
 
 function Tirumari() {
