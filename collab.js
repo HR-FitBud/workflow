@@ -18,6 +18,8 @@ function Romy() {
 }
 
 function Liz() {
+
+    
     return true;
 }
 
@@ -28,6 +30,8 @@ function Tirumari() {
     
   var setup = 'Why did the chicken cross the road?';
   
+
+  var x = 'what what??'
   var punchline = 'To get to the other side.';
   
   return setup + ' ' + punchline;
