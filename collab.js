@@ -11,7 +11,11 @@ function Romy() {
   console.log('this is not a joke');
 
 
+<<<<<<< HEAD
     console.log('HAHHAHAHAHAHAHAHA');
+=======
+  //hi hihihihihi yuuuuuuuuu
+>>>>>>> change line 14
 
 
   console.log('Me too, thanks')
