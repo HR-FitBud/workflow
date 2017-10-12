@@ -18,13 +18,7 @@ function Romy() {
 }
 
 function Liz() {
-<<<<<<< Updated upstream
-	console.log('changes on yu\'s request')
-	
-    return false;
-=======
     return true;
->>>>>>> Stashed changes
 }
 
 function Tirumari() {
