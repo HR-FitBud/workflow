@@ -3,31 +3,29 @@ function Romy() {
 	console.log('hi guys it\'s me, Romy!');
 	console.log('final changes')
 	console.log('hi guys how are you doing');
-
+  console.log('hello yu')
 
 	console.log('new stash changes');
 
 
   console.log('this is not a joke');
 
-
-<<<<<<< HEAD
+  console.log('hello yu')
     console.log('HAHHAHAHAHAHAHAHA');
-=======
   //hi hihihihihi yuuuuuuuuu
->>>>>>> change line 14
 
 
   console.log('Me too, thanks')
 }
 
 function Liz() {
+  console.log('hello yu')
     return true;
 }
 
 function Tirumari() {
 	console.log('changes on yu\'s request')
-	
+	console.log('hello yu')
 	console.log('hi from romy')
     
   var setup = 'Why did the chicken cross the road?';
