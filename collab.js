@@ -1,4 +1,5 @@
 function Romy() {
+
 	console.log('changes on yu\'s request')
 	console.log('hi guys it\'s me, Romy!');
 	console.log('final changes')
@@ -17,14 +18,10 @@ function Romy() {
   console.log('Me too, thanks')
 }
 
+
 function Liz() {
-<<<<<<< Updated upstream
-	console.log('changes on yu\'s request')
-	
-    return false;
-=======
+  //yoyoyoyo
     return true;
->>>>>>> Stashed changes
 }
 
 function Tirumari() {
